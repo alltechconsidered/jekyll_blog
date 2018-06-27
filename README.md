@@ -9,11 +9,11 @@ This repo on master is the completed with custom theme. To check at each step fr
 ### Common steps
 
 * Install Jekyll, requires ruby to be installed
-* Clone this repo `git clone git@github.com:alltechconsidered/jekyll_blog.git`
+* Clone this repo `https://github.com/atcnew/jekyll_blog.git`
 
 ### Part 1 - Starter code and simple theme
 
-* `git checkout v1.1` - checks out until the default theme
+* `git checkout v1.3` - checks out until the default theme
 * run `bundle install` - installs all the dependencies, jekyll, default theme
 * run `jekyll serve` - to serve the site locally, this by default starts the port 4000
 * navigate to http://localhost:4000
